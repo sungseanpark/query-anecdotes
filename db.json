@@ -3,7 +3,7 @@
     {
       "content": "If it hurts, do it more often",
       "id": "47145",
-      "votes": 1
+      "votes": 3
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
@@ -34,6 +34,16 @@
       "content": "Always have the console open",
       "votes": 0,
       "id": "pyWgSCW"
+    },
+    {
+      "content": "Console log and print statements can be very helpful for debugging",
+      "votes": 0,
+      "id": "0TsM2Zz"
+    },
+    {
+      "content": "Understand what the code is doing before writing more code",
+      "votes": 0,
+      "id": "9I9qNml"
     }
   ]
 }
